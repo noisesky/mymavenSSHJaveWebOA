@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mymavenSSHJaveWebOA:war exploded">
+    <output-path>$PROJECT_DIR$/../mymavenSSHJaveWebOA/out/artifacts/mymavenSSHJaveWebOA_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mymavenSSHJaveWebOA/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mymavenSSHJaveWebOA" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
